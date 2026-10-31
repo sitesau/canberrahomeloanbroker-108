@@ -1,0 +1,22 @@
+{
+  "wheel_id": 581,
+  "structure": "umbrella",
+  "slug": "canberrahomeloanbroker-108",
+  "project": "mortgage-brokers-canberra-what-to-expect-468531d670db0bfe6e5a7b",
+  "parent_t1_ref": "canberrahomeloanbroker-154",
+  "node_role": "feeder",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers canberra what to expect",
+  "intended_url": "http://mortgage-brokers-canberra-what-to-expect-468531d670db0bfe6e5a7b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d72e946eee487acb",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-brokers-canberra-checklist-98516f90211f0e610006e39e1fe/",
+      "anchor": "mortgage brokers canberra checklist",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
